@@ -2,7 +2,8 @@
 
 Food@Home is a web-based food ordering application built with HTML, CSS, and JavaScript. This platform enables users to browse menus, add food items to their cart, and place orders through a responsive and user-friendly interface.
 
-🔥 Features
+# 🔥 Features
+
 Responsive Design: Seamless experience across desktop, tablet, and mobile devices
 
 Menu Browsing: Interactive menu with categories, images, and item details
@@ -19,7 +20,8 @@ Error Handling: Custom 404 error page for non-existent routes
 
 Order History: Users can view past orders and details
 
-🛠 Tech Stack
+# 🛠 Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript
 
 UI Design: Custom CSS with responsive layout
