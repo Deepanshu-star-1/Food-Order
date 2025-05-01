@@ -1,4 +1,5 @@
-🍽 Food@Home
+# 🍽 Food@Home
+
 Food@Home is a web-based food ordering application built with HTML, CSS, and JavaScript. This platform enables users to browse menus, add food items to their cart, and place orders through a responsive and user-friendly interface.
 
 🔥 Features
